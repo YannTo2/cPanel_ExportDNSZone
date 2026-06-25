@@ -4,10 +4,9 @@
 // @version      1.4
 // @description  Ajoute un bouton d'export d'une zone DNS de l'interface cPanel dans un fichier texte
 // @author       YannTo2
-// @copyright    2026, YannTo2
+// @copyright    2026, YannTo2 - https://github.com/YannTo2
 // @license      MIT
 // @homepageURL  https://github.com/YannTo2
-// @supportURL   https://github.com/YannTo2/cPanel_ExportDNSZone/issues
 // @source       https://github.com/YannTo2/cPanel_ExportDNSZone
 // @grant        none
 // @changelog    v1.4: Update - amélioration du parse des enregistrements DNS
